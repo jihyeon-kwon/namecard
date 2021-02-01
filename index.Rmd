@@ -1,0 +1,15 @@
+---
+title: "Jihyeon Kwon"
+image: "jihyeonkwon.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/jihyeon-kwon-130966a1/"
+  - label: GitHub
+    url: "https://github.com/jihyeon-kwon"
+  - label: Email
+    url: "mailto:jihyeon.kwon21@gmail.com"
+output:
+  postcards::jolla
+---
+ 
+I am a MS student in Statistics at Wake Forest University. 
